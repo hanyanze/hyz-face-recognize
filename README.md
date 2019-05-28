@@ -19,4 +19,4 @@ pip install face-recognice
   * knn_train.py 训练人脸库tarin。<br>
   * knn_predict.py 检测摄像头拍到的人脸（在knn_train之后运行）。<br>
  
-好了，就酱紫，么么哒~~~~
+好了，就酱紫，么么哒~~~~~
