@@ -1,7 +1,7 @@
 # hyz-face-recognize
 ========<br>
 2019年5月28日，基于face-recognice实现人脸识别代码。<br>
-根据 https://github.com/hanyanze/face_recognition 改写。<br>
+根据 https://github.com/hanyanze/face_recognition 。<br>
 谢谢大佬们无偿的开源。<br>
 首先，在运行该项目前需要：<br>
 ```python
